@@ -1,2 +1,2 @@
 # RSAMRJS
-Instances for RSAMRJS problem.
+Instances for RSAMR-JIT problem.
